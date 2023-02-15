@@ -1,0 +1,62 @@
+.main{
+	color: whitesmoke;
+	text-align: center;
+    font-family: Copperplate, Papyrus, fantasy;
+
+}
+header{
+	background-color: mediumpurple;
+	border-radius: 4px;
+	border:2px solid whitesmoke;
+	padding: 12px;
+}
+.main1{
+	color: whitesmoke;
+	text-align: center;
+	font-family: Copperplate, Papyrus, fantasy;
+	
+}
+.heading{
+	 font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+	 padding: 12px;
+}
+.pointer{
+	background-color: lightslategray;
+}
+.name,.Email,.submit,.message{
+		 font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+		 padding: 12px;
+
+}
+input[type="name"],
+input[type="Email"],
+input[type="message"],
+input[type="submit"]{
+	padding: 12px;
+	 border: 1px solid whitesmoke;
+		 border-radius: 4px;
+
+
+}
+input[type="name"],
+input[type="Email"],
+input[type="message"],
+input[type="submit"]:hover{
+	background-color: RGB(247, 202, 201);
+	
+}
+input[type="submit"]{
+	width: 100%;
+	background-color: RGB(0, 155, 119);
+}
+*{
+	box-sizing: border-boxs;
+}
+body{
+	padding: 20px;
+	margin: 15px 30px;
+	font-family: verdana,geneva,tahoma,sans-serif;
+	font-size: 17px;
+	border: 1px solid whitesmoke;
+	border-radius: 4px;
+}
